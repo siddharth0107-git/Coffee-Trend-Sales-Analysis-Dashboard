@@ -1,7 +1,6 @@
 **☕ Coffee Trend & Sales Analysis Dashboard (Power BI)**
 
-_**Project Pbix File :**_  https://drive.google.com/file/d/1hmUZAwqDItvNFdxWAhMLOnuiHwQvTcVl/view?usp=sharing
-
+_**Project Pbix File :**_  https://drive.google.com/file/d/1y5y1cIXWz8-I_uAgMmPGmqgzfjkd55No/view?usp=sharing
 I built an interactive Coffee Trend and Sales Analysis Dashboard using Power BI to analyze sales performance, customer ordering behavior, and product popularity across different time periods. The dashboard is designed to help understand which coffee products sell the most, when customers place orders, and how sales trends change monthly and yearly.
 
 The project includes two dedicated views:
