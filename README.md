@@ -12,7 +12,7 @@ Monthly Analysis to track day-wise orders, peak sales days, time-of-day demand, 
 
 Yearly Analysis to compare overall sales, identify the best-performing months, and analyze long-term trends across different coffee types.
 
-<img width="1613" height="908" alt="Screenshot 2026-01-04 203210" src="https://github.com/user-attachments/assets/6febd7b4-1331-4d43-a302-503c955383dc" />
+<img width="1613" height="907" alt="Screenshot 2026-01-04 230058" src="https://github.com/user-attachments/assets/2c23a11f-bc4d-47f9-a27f-621e2d618b9f" />
 
 Users can interact with the dashboard using year and month slicers and visually select coffee types using image-based buttons, making the experience intuitive and user-friendly. Key business metrics such as total sales, total orders, average order value, peak day, and top-selling coffee are highlighted using KPI cards for quick insights.
 
